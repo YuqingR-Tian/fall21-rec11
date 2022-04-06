@@ -3,4 +3,4 @@
 
 # Attendance
 [kaihuiz]
-yuqingr
+[yuqingr]
